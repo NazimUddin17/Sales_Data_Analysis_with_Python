@@ -5,7 +5,7 @@
 Here, I developed a comprehensive python project on sales data analysis. This process involved several stages, including cleaning data using pandas, answering different business questions regarding the sales data of 48 months, and visualising data with python libraries - matplotlib and seaborn. This sales dataset contains 51290 records, and 21 columns. 
 
 ## Dataset Used
-
+- <a href="https://github.com/NazimUddin17/Sales_Data_Analysis_with_Python/blob/main/superstore.xlsx">superstore</a>
 
 ## Business Questions
 We have to answer these five questions through our data analysis mainly using pandas and matplotlib library.
